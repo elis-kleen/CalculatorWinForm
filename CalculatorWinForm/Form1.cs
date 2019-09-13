@@ -26,7 +26,7 @@ namespace CalculatorWinForm
             //ååååå
             //What
             //helloooooo
-            //Data Source=.;Initial Catalog=Calculator;Integrated Security=True;Pooling=False
+            //Data Source=.;Initial Catalog=Calculator;Inte
             //Data Source=.;Initial Catalog=Testing2;Integrated Security=True;Pooling=False
         }
     }
